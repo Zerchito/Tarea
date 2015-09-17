@@ -1,0 +1,55 @@
+body{
+  color: white;
+  font-family: 'Open Sans';
+  font-weight: 300;
+  margin: 0;
+}
+
+img{
+  display: block;
+  margin: auto auto;
+}
+
+.medio{
+  max-width: 800px;
+  background-color: black;
+  margin: 0 auto;
+  padding: 20px 40px;
+}
+.medio .titulo{
+  text-align: center;
+  font-weight: lighter;
+  margin: 0;
+}
+
+.medio .pc{
+  display: inline-block;
+  background-color: skyblue;
+  margin: 10px 5px;
+  width: 385px;
+  height: 387px;
+}
+
+.medio .celular{
+  display: inline-block;
+  background-color: #f5da55;
+  margin: 10px 5px;
+  width: 385px;
+  height: 387px;
+}
+
+.medio .celular2{
+  display: inline-block;
+  background-color: #d88960;
+  margin: 10px 5px;
+  width: 385px;
+  height: 387px;
+}
+
+.medio .pc2{
+  display: inline-block;
+  background-color: #62ab8c;
+  margin: 10px 5px;
+  width: 385px;
+  height: 387px;
+}
